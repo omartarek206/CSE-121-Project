@@ -7,5 +7,6 @@ A c++ program that accepts up to 100x100 matrices to perform multiple operations
     4. Raising a matrix to an exponent
     5. Finding the determinant for a matrix
 ### Note that the calculator operates on matrices formatted in the following mattter:
-[ a b c; d e f; g h i;] where this matrix is a 3 by 3 square matrix.
+    [ a b c; d e f; g h i;] where this matrix is a 3 by 3 square matrix.
+
 **The project is written in C++ and made use of the CPP STL.
